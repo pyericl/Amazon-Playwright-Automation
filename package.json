@@ -1,0 +1,19 @@
+{
+  "name": "amazon-playwright-automation",
+  "version": "1.0.0",
+  "description": "Navigates Amazon to search for entered list of items",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pyericl/Amazon-Playwright-Automation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pyericl/Amazon-Playwright-Automation/issues"
+  },
+  "homepage": "https://github.com/pyericl/Amazon-Playwright-Automation#readme"
+}
